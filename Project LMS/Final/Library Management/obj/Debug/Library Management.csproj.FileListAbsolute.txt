@@ -1,0 +1,25 @@
+I:\Library Management\Library Management\Library Management\bin\Library Management.dll
+I:\Library Management\Library Management\Library Management\bin\Library Management.pdb
+I:\Library Management\Library Management\Library Management\obj\Debug\ResolveAssemblyReference.cache
+I:\Library Management\Library Management\Library Management\obj\Debug\Library Management.dll
+I:\Library Management\Library Management\Library Management\obj\Debug\Library Management.pdb
+I:\Library Management\New folder\Library Management\Library Management\bin\Library Management.dll
+I:\Library Management\New folder\Library Management\Library Management\bin\Library Management.pdb
+I:\Library Management\New folder\Library Management\Library Management\obj\Debug\ResolveAssemblyReference.cache
+I:\Library Management\New folder\Library Management\Library Management\obj\Debug\Library Management.dll
+I:\Library Management\New folder\Library Management\Library Management\obj\Debug\Library Management.pdb
+I:\Project LMS\Final\Library Management\bin\Library Management.dll
+I:\Project LMS\Final\Library Management\bin\Library Management.pdb
+I:\Project LMS\Final\Library Management\obj\Debug\ResolveAssemblyReference.cache
+I:\Project LMS\Final\Library Management\obj\Debug\Library Management.dll
+I:\Project LMS\Final\Library Management\obj\Debug\Library Management.pdb
+C:\Users\poka\Desktop\Project LMS\Final\Library Management\bin\Library Management.dll
+C:\Users\poka\Desktop\Project LMS\Final\Library Management\bin\Library Management.pdb
+C:\Users\poka\Desktop\Project LMS\Final\Library Management\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\poka\Desktop\Project LMS\Final\Library Management\obj\Debug\Library Management.dll
+C:\Users\poka\Desktop\Project LMS\Final\Library Management\obj\Debug\Library Management.pdb
+F:\Project LMS\Final\Library Management\bin\Library Management.dll
+F:\Project LMS\Final\Library Management\bin\Library Management.pdb
+F:\Project LMS\Final\Library Management\obj\Debug\Library Management.dll
+F:\Project LMS\Final\Library Management\obj\Debug\Library Management.pdb
+F:\Project LMS\Final\Library Management\obj\Debug\Library Management.csprojResolveAssemblyReference.cache

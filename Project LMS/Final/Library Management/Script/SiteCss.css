@@ -1,0 +1,40 @@
+﻿.wrapper
+        {
+            width: 1150px;
+            min-height: 400px;
+            margin: auto;
+            border: 1px solid black;
+        }
+        .head
+        {
+            width: 100%;
+            height: 100px;
+            background-image:url("kmlc-banner.jpg");         
+            background-repeat: no-repeat; 
+        }
+        .Left
+        {
+            width: 15%;
+            min-height:400px;
+            background-color:Aqua;
+            float:left;
+        }
+        .right
+        {
+            width: 15%;
+            min-height:400px;
+            background-color:Gray;
+            float:left;
+        }
+        .mainContainer
+        {
+            width: 70%;
+            min-height:400px;
+            float:left;
+        }
+        .footer
+        {
+            width:100%;
+            height:50px;
+            background-color:Lime;    
+        }
